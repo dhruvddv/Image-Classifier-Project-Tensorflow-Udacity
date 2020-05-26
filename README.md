@@ -1,5 +1,5 @@
 # Image-Classifier-Project-Tensorflow-Udacity
-Udacity Projects of Introduction to Machine Learning with TensorFlow Nano Degree
+Udacity Project of Introduction to Machine Learning with TensorFlow Nano Degree
 
 # Intro to Machine Learning - TensorFlow Project
 
